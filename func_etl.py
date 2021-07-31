@@ -1,3 +1,4 @@
+#Aqui estan las funciones requeridas
 #Importación de librerías
 import pandas as pd
 import dask as dd
